@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+node_modules/
+build/
+tmp/
+temp/
+dist/
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+test/fixtures/add_file/a.ts
+test/fixtures/test_build/a.js
+ttt
+midway-version
